@@ -1,0 +1,1 @@
+Official Codebase for *Active Preference Optimization for Sample Efficient RLHF* by Nirjhar Das, Souradip Chakrabory, Aldo Pacchiano and Sayak Ray Chowdhury.
