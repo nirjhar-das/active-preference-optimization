@@ -1,3 +1,2 @@
-datasets/*
-output/*
-results/*
+output/*train.npy
+output/*test.npy
